@@ -1,0 +1,11 @@
+.devcontainer/
+.git/
+.github/
+.vscode/
+contributing/
+docs/
+node_modules/
+tests/
+# Folder is cloned during the preview + prod workflows, the assets are merged into other locations for use before the build
+docs-early-access/
+README.md
